@@ -1,3 +1,4 @@
+#code
 class Stack:
 
     def __init__(self, items = [], limit = 100):
